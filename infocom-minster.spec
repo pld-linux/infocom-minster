@@ -1,7 +1,7 @@
 %define		_name		minster
 
 Summary:	Infocom text game - Christminster
-Summary(pl):	Textówka Infocomu - Christminster
+Summary(pl):	Tekstówka Infocomu - Christminster
 Name:		infocom-minster
 Version:	961117
 Release:	1
@@ -23,8 +23,20 @@ you'll have a pleasant day out in beautiful surroundings.
 
 But when you get to Christminster, nothing is as you expect. Where has
 Malcolm vanished to? What are the unpleasant Doctor Jarboe and the
-positively repulsive Professor Bungay up to? And what do
 long-forgotten alchemical treatises have to do with the modern day?
+
+%description -l pl
+Gdy twój brat Malcolm wysy³a ci telegram zapraszaj±cy do odwiedzenia
+go w Biblioll College w staro¿ytnym miasteczku uniwersyteckim
+Christminster, wyobra¿asz sobie, ¿e tajemnicze ,,odkrycie'', o którym
+ci napomkn±³ nie jest niczym innym ni¿ ezoterycznym kawa³kiem chemii i
+w zwi±zku z tym spêdzisz mi³y dzieñ w piêknym otoczeniu.
+
+Ale gdy docierasz do Christminster, nic nie dzieje sie zgodnie z
+przewidywaniami. Gdzie znikn±³ Malcolm? Co siê dzieje z niemi³ym
+doktorem Jarboe i ze zdecydowanie odpychaj±cym profesorem Bungayem?
+Oraz co robi± w czasach wspó³czesnych dawno zapomniane rozprawy
+alchemiczne?
 
 %prep
 

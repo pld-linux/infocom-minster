@@ -23,6 +23,7 @@ you'll have a pleasant day out in beautiful surroundings.
 
 But when you get to Christminster, nothing is as you expect. Where has
 Malcolm vanished to? What are the unpleasant Doctor Jarboe and the
+positively repulsive Professor Bungay up to? And what do
 long-forgotten alchemical treatises have to do with the modern day?
 
 %description -l pl

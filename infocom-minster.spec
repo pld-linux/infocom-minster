@@ -7,9 +7,9 @@ Version:	961117
 Release:	1
 License:	free
 Group:		Applications/Games
-Source0:	%{_name}.z5
+Source0:	ftp://ftp.ifarchive.org/if-archive/games/zcode/%{_name}.z5
 # Source0-md5:	e343b97402ea4220bf19bb3fe39ae008
-URL:		http://www.ifarchive.com/
+URL:		http://www.ifarchive.org/
 Requires:	frotz
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
@@ -26,11 +26,13 @@ Malcolm vanished to? What are the unpleasant Doctor Jarboe and the
 positively repulsive Professor Bungay up to? And what do
 long-forgotten alchemical treatises have to do with the modern day?
 
+%prep
+
 %install
 rm -rf $RPM_BUILD_ROOT
-
 install -d $RPM_BUILD_ROOT%{_bindir}
 install -d $RPM_BUILD_ROOT%{_datadir}/games/zcode
+
 cp %{SOURCE0} $RPM_BUILD_ROOT%{_datadir}/games/zcode
 ln -s %{_datadir}/games/zcode/wrapper.sh $RPM_BUILD_ROOT%{_bindir}/%{_name}
 

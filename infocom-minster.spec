@@ -1,5 +1,4 @@
 %define		_name		minster
-
 Summary:	Infocom text game - Christminster
 Summary(pl):	Tekstówka Infocomu - Christminster
 Name:		infocom-minster
@@ -33,7 +32,7 @@ Christminster, wyobra¿asz sobie, ¿e tajemnicze ,,odkrycie'', o którym
 ci napomkn±³ nie jest niczym innym ni¿ ezoterycznym kawa³kiem chemii i
 w zwi±zku z tym spêdzisz mi³y dzieñ w piêknym otoczeniu.
 
-Ale gdy docierasz do Christminster, nic nie dzieje sie zgodnie z
+Ale gdy docierasz do Christminster, nic nie dzieje siê zgodnie z
 przewidywaniami. Gdzie znikn±³ Malcolm? Co siê dzieje z niemi³ym
 doktorem Jarboe i ze zdecydowanie odpychaj±cym profesorem Bungayem?
 Oraz co robi± w czasach wspó³czesnych dawno zapomniane rozprawy

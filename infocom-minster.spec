@@ -3,13 +3,13 @@ Summary:	Infocom text game - Christminster
 Summary(pl):	Tekstówka Infocomu - Christminster
 Name:		infocom-minster
 Version:	961117
-Release:	1
+Release:	2
 License:	free
 Group:		Applications/Games
 Source0:	ftp://ftp.ifarchive.org/if-archive/games/zcode/%{_name}.z5
 # Source0-md5:	e343b97402ea4220bf19bb3fe39ae008
 URL:		http://www.ifarchive.org/
-Requires:	frotz
+Requires:	zcode-wrapper
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
 

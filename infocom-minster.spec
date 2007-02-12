@@ -1,6 +1,6 @@
 %define		_name		minster
 Summary:	Infocom text game - Christminster
-Summary(pl):	Tekstówka Infocomu - Christminster
+Summary(pl.UTF-8):   TekstÃ³wka Infocomu - Christminster
 Name:		infocom-minster
 Version:	961117
 Release:	2
@@ -25,17 +25,17 @@ Malcolm vanished to? What are the unpleasant Doctor Jarboe and the
 positively repulsive Professor Bungay up to? And what do
 long-forgotten alchemical treatises have to do with the modern day?
 
-%description -l pl
-Gdy twój brat Malcolm wysy³a ci telegram zapraszaj±cy do odwiedzenia
-go w Biblioll College w staro¿ytnym miasteczku uniwersyteckim
-Christminster, wyobra¿asz sobie, ¿e tajemnicze ,,odkrycie'', o którym
-ci napomkn±³ nie jest niczym innym ni¿ ezoterycznym kawa³kiem chemii i
-w zwi±zku z tym spêdzisz mi³y dzieñ w piêknym otoczeniu.
+%description -l pl.UTF-8
+Gdy twÃ³j brat Malcolm wysyÅ‚a ci telegram zapraszajÄ…cy do odwiedzenia
+go w Biblioll College w staroÅ¼ytnym miasteczku uniwersyteckim
+Christminster, wyobraÅ¼asz sobie, Å¼e tajemnicze ,,odkrycie'', o ktÃ³rym
+ci napomknÄ…Å‚ nie jest niczym innym niÅ¼ ezoterycznym kawaÅ‚kiem chemii i
+w zwiÄ…zku z tym spÄ™dzisz miÅ‚y dzieÅ„ w piÄ™knym otoczeniu.
 
-Ale gdy docierasz do Christminster, nic nie dzieje siê zgodnie z
-przewidywaniami. Gdzie znikn±³ Malcolm? Co siê dzieje z niemi³ym
-doktorem Jarboe i ze zdecydowanie odpychaj±cym profesorem Bungayem?
-Oraz co robi± w czasach wspó³czesnych dawno zapomniane rozprawy
+Ale gdy docierasz do Christminster, nic nie dzieje siÄ™ zgodnie z
+przewidywaniami. Gdzie zniknÄ…Å‚ Malcolm? Co siÄ™ dzieje z niemiÅ‚ym
+doktorem Jarboe i ze zdecydowanie odpychajÄ…cym profesorem Bungayem?
+Oraz co robiÄ… w czasach wspÃ³Å‚czesnych dawno zapomniane rozprawy
 alchemiczne?
 
 %prep

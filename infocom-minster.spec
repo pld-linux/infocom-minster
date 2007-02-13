@@ -1,6 +1,6 @@
 %define		_name		minster
 Summary:	Infocom text game - Christminster
-Summary(pl.UTF-8):   Tekstówka Infocomu - Christminster
+Summary(pl.UTF-8):	Tekstówka Infocomu - Christminster
 Name:		infocom-minster
 Version:	961117
 Release:	2
